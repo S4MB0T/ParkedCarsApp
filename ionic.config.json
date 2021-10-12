@@ -1,0 +1,7 @@
+{
+  "name": "ParkingTicketApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
